@@ -1,0 +1,9 @@
+Hammad
+Car Wash (Exterior Only)               Cost Rs.250
+Detail Car Wash (Exterior + Interior)  Cost Rs.500
+Car Oil Change                         Cost Rs.5000
+Total Cost                                  Rs.5750
+abubakr
+Car Wash (Exterior Only)               Cost Rs.250
+Detail Car Wash (Exterior + Interior)  Cost Rs.500
+Total                                  Cost Rs.750
